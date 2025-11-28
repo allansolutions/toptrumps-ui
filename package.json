@@ -1,0 +1,19 @@
+{
+  "name": "toptrumps-ui",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@oxc-parser/binding-darwin-arm64": "^0.99.0",
+    "nuxt": "^4.2.1",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3"
+  },
+  "packageManager": "pnpm@8.13.0+sha512.4c9c35bab00c01880aabff0fb8434531120ac8192662fa42003e0edb48061fb36ad5eb2d63cbcdb54048e043877221625ce475a5d243c6f68cff33dc82f9158b"
+}
